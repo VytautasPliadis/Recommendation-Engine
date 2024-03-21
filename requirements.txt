@@ -1,0 +1,12 @@
+fastapi~=0.104.1
+SQLAlchemy~=2.0.23
+pydantic~=2.5.2
+uvicorn
+psycopg2
+numpy
+pandas~=2.0.3
+ydata-profiling
+pydantic
+streamlit~=1.29.0
+python-dotenv~=1.0.0
+requests~=2.31.0
